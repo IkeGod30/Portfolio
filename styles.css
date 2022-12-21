@@ -1,3 +1,23 @@
 body {
     background: grey;
+    background-image: url("graphics/kode.jpg");
+}
+
+.theFirst {
+    background: white;
+}
+a {
+    color: white;
+    font-size: 1.2rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+   
+}
+
+ul li {
+    margin: 10px;
 }
