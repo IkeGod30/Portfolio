@@ -25,10 +25,10 @@ ul.primaryNav {
    
 }
 
-ul.mainNav {
+/* ul.mainNav {
     margin: 10px;
     list-style-type: none;
-}
+} */
 
 /* .anim {
     width: 150px;
@@ -57,4 +57,10 @@ ul.mainNav {
     text-align: center;
     background: blue;
     margin: auto;
+  }
+
+  .navi nav ul li {
+    margin: 10px;
+    list-style-type: none;
+    
   }
