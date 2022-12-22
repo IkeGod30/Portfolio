@@ -4,22 +4,28 @@ body {
 }
 
 .theFirst {
-    background: white;
+    color: whitesmoke;
+    text-align: center;
+    background: blue;
+    margin-top: 200px;
+    margin-left: 75px;
+    //margin: auto;
     
 }
-a {
+ul.primaryNav a {
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     text-decoration: none;
     font-weight: bold;
 }
 
-ul {
+ul.primaryNav {
     display: flex;
+    
    
 }
 
-ul li {
+ul.mainNav {
     margin: 10px;
     list-style-type: none;
 }
@@ -43,4 +49,12 @@ ul li {
 @keyframes navi {
     from {left: 0px;}
     to {left: 500px;}
+  }
+
+
+  .head1 {
+    color: whitesmoke;
+    text-align: center;
+    background: blue;
+    margin: auto;
   }
