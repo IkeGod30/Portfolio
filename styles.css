@@ -5,6 +5,7 @@ body {
 
 .theFirst {
     background: white;
+    
 }
 a {
     color: white;
@@ -21,3 +22,24 @@ ul {
 ul li {
     margin: 10px;
 }
+
+/* .anim {
+    width: 150px;
+    height: 150px;
+    background: orangered;
+    position: relative;
+    animation: mymove 10s infinite;
+
+} */
+
+.navi {
+    animation: navi 10s infinite;
+    position: relative;
+}
+
+
+
+@keyframes navi {
+    from {left: 0px;}
+    to {left: 500px;}
+  }
