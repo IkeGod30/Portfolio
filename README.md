@@ -1,4 +1,4 @@
 # Portfolio Site
-## Full-stack tecnical skills
+## Full-stack technical skills
 
 Hosted on [https://ikegod30.github.io/Portfolio/](https://ikegod30.github.io/Portfolio/)
