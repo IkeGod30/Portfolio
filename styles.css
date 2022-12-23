@@ -6,11 +6,16 @@ body {
 .theFirst {
     color: whitesmoke;
     text-align: center;
-    background: blue;
+    background: grey;
     margin-top: 200px;
     margin-left: 75px;
-    //margin: auto;
+    border-radius: 4px;
     
+    
+}
+
+.theFirst div {
+    /* margin: 1px; */
 }
 ul.primaryNav a {
     color: white;
@@ -63,4 +68,8 @@ ul.primaryNav {
     margin: 10px;
     list-style-type: none;
     
+  }
+
+  .pic {
+    border-radius: 6px;
   }
