@@ -1,6 +1,6 @@
 body {
     background: grey;
-    background-image: url("graphics/kode.jpg");
+    /* background-image: url("graphics/kode.jpg"); */
 }
 
 .theFirst {
@@ -14,9 +14,7 @@ body {
     
 }
 
-.theFirst div {
-    /* margin: 1px; */
-}
+
 ul.primaryNav a {
     color: white;
     font-size: 1.4rem;
@@ -45,6 +43,8 @@ ul.primaryNav {
 } */
 
 .navi {
+    background-image: url("graphics/kode.jpg");
+    height: 200px;
     animation: navi 10s infinite;
     position: relative;
 }
