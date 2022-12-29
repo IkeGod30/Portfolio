@@ -45,13 +45,13 @@ ul.primaryNav {
 .navi {
     background-image: url("graphics/kode.jpg");
     height: 200px;
-    animation: navi 10s infinite;
-    position: relative;
+    /* animation: navi 10s infinite;
+    position: relative; */
 }
 
 
 
-@keyframes navi {
+@keyframes pic {
     from {left: 0px;}
     to {left: 500px;}
   }
@@ -70,14 +70,17 @@ ul.primaryNav {
     
   }
 
-  img.myPic {
+  /* img.myPic {
     border-radius: 20px;
     
     
-  }
+    
+  } */
 
   div.pic {
     /* margin: auto 0; */
     margin-top: 6px;;
     text-align: center;
+    animation: pic 10s infinite;
+    position: relative;
   }
