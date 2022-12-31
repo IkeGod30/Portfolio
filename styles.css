@@ -60,7 +60,7 @@ ul.primaryNav {
   .head1 {
     color: whitesmoke;
     text-align: center;
-    background: blue;
+    background: purple;
     margin: auto;
   }
 
@@ -79,7 +79,7 @@ ul.primaryNav {
 
   div.pic {
     /* margin: auto 0; */
-    margin-top: 6px;;
+    margin-top: 6px;
     text-align: center;
     animation: pic 10s infinite;
     position: relative;
