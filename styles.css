@@ -44,7 +44,7 @@ ul.primaryNav {
 
 .navi {
     background-image: url("graphics/kode.jpg");
-    height: 200px;
+    height: 500px;
     /* animation: navi 10s infinite;
     position: relative; */
 }
@@ -83,4 +83,9 @@ ul.primaryNav {
     text-align: center;
     animation: pic 10s infinite;
     position: relative;
+  }
+
+  footer div {
+    text-align: center;
+    margin-top: 10px;
   }
