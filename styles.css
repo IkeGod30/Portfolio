@@ -10,6 +10,7 @@ body {
     margin-top: 200px;
     margin-left: 75px;
     border-radius: 4px;
+  
     
     
 }
@@ -44,7 +45,7 @@ ul.primaryNav {
 
 .navi {
     background-image: url("graphics/kode.jpg");
-    height: 500px;
+    /* height: 100px; */
     /* animation: navi 10s infinite;
     position: relative; */
 }
