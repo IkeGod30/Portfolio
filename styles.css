@@ -178,6 +178,7 @@ ul.primaryNav {
 
 .imgOver:hover .image {
   opacity: 0.6;
+  
 }
 
 .imgOver:hover .overlay {
@@ -191,3 +192,5 @@ ul.primaryNav {
   font-size: 16px;
   padding: 16px 32px;
 }
+
+/* .pointer {cursor: pointer;} */
