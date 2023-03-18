@@ -103,6 +103,12 @@ ul.primaryNav {
 
   }
 
+  .name {
+    margin: auto 0;
+    /* display: flex;
+    justify-content: center; */
+  }
+
   footer div {
     text-align: center;
     margin-top: 10px;
