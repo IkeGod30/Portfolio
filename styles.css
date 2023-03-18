@@ -94,8 +94,15 @@ ul.primaryNav {
     position: relative;
   }
 
+  img.imgMe {
+    border: solid green 5px;
+    
+  }
+
   .bio {
     text-align: center;
+    display: flex;
+    justify-content: center;
   }
 
   .bioDetails li {
@@ -104,9 +111,11 @@ ul.primaryNav {
   }
 
   .name {
-    margin: auto 0;
-    /* display: flex;
-    justify-content: center; */
+    color: grey;
+    /* margin: auto 0; */
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
   }
 
   footer div {
