@@ -94,6 +94,15 @@ ul.primaryNav {
     position: relative;
   }
 
+  .bio {
+    text-align: center;
+  }
+
+  .bioDetails li {
+    list-style-type: none;
+
+  }
+
   footer div {
     text-align: center;
     margin-top: 10px;
