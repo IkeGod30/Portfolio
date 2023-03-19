@@ -10,7 +10,7 @@ ul {
     color: whitesmoke;
     text-align: center;
     background: grey;
-    margin-top: 200px;
+    /* margin-top: 200px; */
     margin-left: 75px;
     border-radius: 4px;
   
@@ -101,8 +101,9 @@ ul.primaryNav {
 
   .bio {
     text-align: center;
-    display: flex;
-    justify-content: center;
+    width: 100%;
+    /* display: flex;
+    justify-content: center; */
   }
 
   .bioDetails li {
@@ -112,10 +113,11 @@ ul.primaryNav {
 
   .name {
     color: grey;
+    width: 100%;
     /* margin: auto 0; */
-    /* text-align: center; */
-    display: flex;
-    justify-content: center;
+    text-align: center;
+    /* display: flex;
+    justify-content: center; */
   }
 
   footer div {
