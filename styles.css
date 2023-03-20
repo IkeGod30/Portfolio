@@ -6,17 +6,17 @@ nav {
 ul {
   width: 100%;
 }
-.theFirst {
+/* .theFirst {
     color: whitesmoke;
     text-align: center;
     background: grey;
-    /* margin-top: 200px; */
+   
     margin-left: 75px;
     border-radius: 4px;
   
     
     
-}
+} */
 
 
 ul.primaryNav a {
