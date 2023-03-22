@@ -6,18 +6,34 @@ nav {
 ul {
   width: 100%;
 }
-/* .theFirst {
-    color: whitesmoke;
+.theFirst {
+  /* display: flex;
+  justify-content: center; */
+    /* color: whitesmoke; */
     text-align: center;
-    background: grey;
+    /* background: rgb(236, 230, 230); */
    
     margin-left: 75px;
+    padding: 20px;
     border-radius: 4px;
   
     
     
-} */
+}
 
+.skills {
+  background: rgb(232, 241, 243);
+}
+
+.vba {
+  position: absolute;
+  margin-top: -40px;
+  color: navy;
+  font-weight: bold;
+}
+/* .vbaText {
+  position: relative;
+} */
 
 ul.primaryNav a {
     color: white;
