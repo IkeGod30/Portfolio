@@ -217,11 +217,15 @@ ul.primaryNav {
 
 .image {
   opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
+  /* display: block; */
+  border-radius: 15px;
+  /* width: 100%; */
+  width: 300px;
+  height: 200px;
+  /* height: auto; */
   transition: .5s ease;
   backface-visibility: hidden;
+  /* margin: 1px; */
 }
 
 .overlay {
@@ -236,6 +240,10 @@ ul.primaryNav {
   width: 100%;
 }
 
+/* .imgOver figure img {
+  margin: auto;
+} */
+
 .imgOver:hover .image {
   opacity: 0.6;
   
@@ -249,7 +257,7 @@ ul.primaryNav {
   /* background-color: #04AA6D; */
   /* color: orangered; */
   font-weight: bolder;
-  font-size: 30px;
+  font-size: 20px;
   padding: 16px 32px;
  
 }
