@@ -23,7 +23,18 @@ ul {
 
 .skills {
   background: rgb(232, 241, 243);
+  /* border-bottom-left-radius: -15% -20%;
+  border-bottom-right-radius: 15% 30%;
+  border-top-left-radius: 15% 20%;
+  border-top-right-radius: 15% 30%; */
+
+ /* border-radius: 17% 83% 27% 73% / 63% 22% 78% 37%;  */
 }
+
+.skillsProjects {
+  background: rgb(229, 234, 235);
+}
+/* 
 
 .vba {
   position: absolute;
@@ -31,12 +42,13 @@ ul {
   color: navy;
   font-weight: bold;
 }
-/* .vbaText {
+
+.vbaText {
   position: relative;
 } */
 
 ul.primaryNav a {
-    color: white;
+    color: white; 
     font-size: 1.4rem;
     text-decoration: none;
     font-weight: bold;
@@ -46,6 +58,7 @@ ul.primaryNav a {
 a:hover, a:focus {
   background-color: orangered;
   color: #333;
+  font-size: 3px;
 }
 ul.primaryNav {
     display: flex;
@@ -68,10 +81,12 @@ ul.primaryNav {
 } */
 
 .navi {
-    background-image: url("graphics/kode.jpg");
+    /* background-image: url("graphics/kode.jpg"); */
     /* height: 100px; */
     /* animation: navi 10s infinite;
     position: relative; */
+    background-color: navy;
+    margin-bottom: -19px;
 }
 
 
