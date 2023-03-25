@@ -13,7 +13,8 @@ ul {
     text-align: center;
     /* background: rgb(236, 230, 230); */
    
-    margin-left: 75px;
+    /* margin-left: 60px; */
+    margin: auto;
     padding: 20px;
     border-radius: 4px;
   
@@ -34,7 +35,7 @@ ul {
 .skillsProjects {
   background: rgb(229, 234, 235);
 }
-/* 
+
 
 .vba {
   position: absolute;
@@ -45,7 +46,7 @@ ul {
 
 .vbaText {
   position: relative;
-} */
+}
 
 ul.primaryNav a {
     color: white; 
@@ -133,6 +134,7 @@ ul.primaryNav {
   .bio {
     text-align: center;
     width: 100%;
+    margin: auto;
     /* display: flex;
     justify-content: center; */
   }
