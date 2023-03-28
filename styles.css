@@ -1,3 +1,7 @@
+/* body {
+  background-color: navy;
+} */
+
 nav {
   width: 100%;
   display: block;
@@ -135,6 +139,7 @@ ul.primaryNav {
     text-align: center;
     width: 100%;
     margin: auto;
+    /* background: rgb(6, 6, 95); */
     /* display: flex;
     justify-content: center; */
   }
@@ -169,6 +174,8 @@ ul.primaryNav {
 
 .imgOver {
   position: relative;
+  /* margin-right: -70px; */
+ 
 
 }
 
@@ -218,10 +225,10 @@ ul.primaryNav {
 .image {
   opacity: 1;
   /* display: block; */
-  border-radius: 15px;
+  border-radius: 5px;
   /* width: 100%; */
-  width: 300px;
-  height: 200px;
+  width: 350px;
+  height: 250px;
   /* height: auto; */
   transition: .5s ease;
   backface-visibility: hidden;
