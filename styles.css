@@ -286,3 +286,17 @@ text-align: justify;
 }
 
 /* .pointer {cursor: pointer;} */
+.copyright {
+  /* margin: auto 0; */
+  /* display: flex;
+  justify-content: center; */
+  text-align: center;
+}
+
+.copyrightText {
+  text-align: center;
+  margin-top: 15px;
+  color: navy;
+  /* font-size: 40px; */
+  
+  }
