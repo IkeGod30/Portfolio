@@ -286,11 +286,15 @@ text-align: justify;
 }
 
 /* .pointer {cursor: pointer;} */
-.copyright {
+.contact {
+  /* display: flex;
+  align-content: center; */
   /* margin: auto 0; */
   /* display: flex;
   justify-content: center; */
   text-align: center;
+  /* margin: auto 0; */
+  margin-left: 90px;
 }
 
 .copyrightText {
