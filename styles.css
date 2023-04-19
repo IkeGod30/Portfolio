@@ -300,7 +300,20 @@ text-align: justify;
 
 .contactDetails {
   /* text-align: justify; */
-  margin-left: 90px;
+  /* margin-left: 90px; */
+  /* background: red;
+  color: white; */
+  margin-left: 450px;
+}
+
+.contactLink {
+  text-decoration: none;
+  font-size: 1.1rem
+  
+}
+
+.contactP {
+  font-style: italic;
 }
 
 .copyrightText {
