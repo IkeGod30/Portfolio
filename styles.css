@@ -1,6 +1,3 @@
-/* body {
-  background-color: navy;
-} */
 
 nav {
   width: 100%;
@@ -11,20 +8,12 @@ ul {
   width: 100%;
 }
 .theFirst {
-  /* display: flex;
-  justify-content: center; */
-    /* color: whitesmoke; */
     text-align: center;
-    /* background: rgb(236, 230, 230); */
-   
-    /* margin-left: 60px; */
     margin: auto;
     padding: 20px;
     border-radius: 4px;
-  
-    
-    
-}
+      
+    }
 
 .skills {
   background: rgb(232, 241, 243);
@@ -63,7 +52,7 @@ ul.primaryNav a {
 .primaryNav a:hover, .primaryNav a:focus {
   background-color: orangered;
   color: #333;
-  /* font-size: 3px; */
+
 }
 
 ul.primaryNav {
@@ -116,15 +105,8 @@ ul.primaryNav {
     
   }
 
-  /* img.myPic {
-    border-radius: 20px;
-    
-    
-    
-  } */
 
   div.pic {
-    /* margin: auto 0; */
     margin-top: 6px;
     text-align: center;
     animation: pic 10s infinite;
@@ -140,10 +122,7 @@ ul.primaryNav {
     text-align: center;
     width: 100%;
     margin: auto;
-    /* background: rgb(6, 6, 95); */
-    /* display: flex;
-    justify-content: center; */
-  }
+     }
 
   .bioDetails li {
     list-style-type: none;
@@ -153,11 +132,8 @@ ul.primaryNav {
   .name {
     color: grey;
     width: 100%;
-    /* margin: auto 0; */
     text-align: center;
-    /* display: flex;
-    justify-content: center; */
-  }
+      }
 
   footer div {
     text-align: center;
@@ -248,9 +224,6 @@ ul.primaryNav {
   width: 100%;
 }
 
-/* .imgOver figure img {
-  margin: auto;
-} */
 
 .imgOver:hover .image {
   opacity: 0.6;
@@ -262,8 +235,6 @@ ul.primaryNav {
 }
 
 .text {
-  /* background-color: #04AA6D; */
-  /* color: orangered; */
   font-weight: bolder;
   font-size: 20px;
   padding: 16px 32px;
@@ -299,11 +270,7 @@ text-align: justify;
 }
 
 .contactDetails {
-  /* text-align: justify; */
-  /* margin-left: 90px; */
-  /* background: red;
-  color: white; */
-  margin-left: 450px;
+   margin-left: 450px;
 }
 
 .contactLink {
@@ -320,6 +287,6 @@ text-align: justify;
   text-align: center;
   margin-top: 15px;
   color: navy;
-  /* font-size: 40px; */
+ 
   
   }
